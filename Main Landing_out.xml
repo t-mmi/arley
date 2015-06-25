@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<panorama id="" hideabout="1">
+  <view fovmode="0" pannorth="0">
+    <start pan="8.2" fov="98.2" tilt="-27.5"/>
+    <min pan="0" fov="52.25" tilt="-90"/>
+    <max pan="360" fov="98.2" tilt="90"/>
+  </view>
+  <userdata title="" datetime="2015:05:07 12:01:31" description="" copyright="" tags="" author="" source="" comment="" info="" longitude="" latitude=""/>
+  <hotspots width="180" height="20" wordwrap="1">
+    <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
+    <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+    <hotspot title="&lt;b>Aerial View&lt;/b>" target="" pan="-0.458337" skinid="" url="aerial view_out.swf" id="Point01" tilt="65.3338"/>
+    <hotspot title="&lt;b>Staircase Hall&lt;/b>" target="" pan="-5.46779" skinid="" url="Staircase Hall_out.swf" id="Point02" tilt="-43.4526"/>
+    <hotspot title="&lt;b>South Bay Bedroom&lt;/b>" target="" pan="-121.04" skinid="" url="South Bay Bedroom_out.swf" id="Point03" tilt="-3.10247"/>
+  </hotspots>
+  <media/>
+  <input tile0url="images/Main Landing_o_0.jpg" prev5url="images/Main Landing_o_preview_5.jpg" prev4url="images/Main Landing_o_preview_4.jpg" prev3url="images/Main Landing_o_preview_3.jpg" prev2url="images/Main Landing_o_preview_2.jpg" prev1url="images/Main Landing_o_preview_1.jpg" prev0url="images/Main Landing_o_preview_0.jpg" tile5url="images/Main Landing_o_5.jpg" tilesize="1200" tile4url="images/Main Landing_o_4.jpg" tile3url="images/Main Landing_o_3.jpg" tilescale="1.008333" tile2url="images/Main Landing_o_2.jpg" tile1url="images/Main Landing_o_1.jpg">
+    <preview color="0x808080"/>
+  </input>
+  <autorotate speed="0.100" nodedelay="0.00" startloaded="0" returntohorizon="0.000" delay="5.00" noderandom="1"/>
+  <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="1" invertwheel="0" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="8"/>
+</panorama>
